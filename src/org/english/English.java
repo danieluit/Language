@@ -8,8 +8,12 @@ public void englishlanguage() {
 System.out.println("Languageclass is English");
 
 }
+public void subtr() {
+System.out.println("sub");
+}
 
 public void ad() {
 System.out.println("git");
 }
+
 }
