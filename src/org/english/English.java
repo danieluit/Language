@@ -7,4 +7,7 @@ public void englishlanguage() {
 	// TODO Auto-generated method stub
 System.out.println("Languageclass is English");
 }
+public void subtr() {
+System.out.println("sub");
+}
 }
